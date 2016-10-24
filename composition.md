@@ -1,13 +1,11 @@
 # Composition
 
-- Beware the Background
-- Filling the Frame
-- Balance Objects within the Frame
+- Finding Balance
   - Rule of Thirds
   - Symmetry
   - Negative Space
   - Center Dominant Eye
-- Create Interest to Engage the Viewer
+- Creating Interest (Engage the Viewer)
   - Use Leading Lines
   - Look for Diagonals
   - Challenge the Typical Viewpoint
@@ -15,7 +13,10 @@
   - Framing with Objects
   - Contrasts within the Frame
   - Patterns (and breaks in the pattern)
-- Experimentation
+- Strengthen your composure
+  - Beware the Background
+  - Fill the Frame
+  - Get closer
 
 
 
